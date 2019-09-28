@@ -1,7 +1,7 @@
 # Standard Data Science Toolkit
 A set of scripts commonly used for data analysis. They can become handy in a data challenge, competition or any data science project. Preferred inputs and outputs to work with are **Pandas DataFrames**.
 
-## Tools included:
+## Tools included: (IN PROGRESS!)
 ### Exploratory Data Analysis (EDA)
 - A function that plots all the variables against the label (a great starting point)
 
