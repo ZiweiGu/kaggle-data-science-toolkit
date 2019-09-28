@@ -2,21 +2,21 @@
 A set of scripts commonly used for data analysis. They can become handy in a data challenge, competition or any data science project. Preferred inputs and outputs to work with are **Pandas DataFrames**.
 
 Tools included:
-### Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 - A function that plots all the variables against the label (a great starting point)
 
 
-### Data Preprocessing
+## Data Preprocessing
 - A function that bins continuous variables into classes. 
 - A function for dataset augmentation in the case of imbalanced datasets
 
 
-### Feature Engineering
+## Feature Engineering
 - A function that extracts info from dates.
 - A function that vectorizes text data (tf-idf, word embeddings, etc.)
 
 
-### Model Building
+## Model Building
 -- supervised models -- 
 - A function that builds the ROC curve and optimizes the cutoff point.
 - A function that cross-validates.
